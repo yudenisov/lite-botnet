@@ -1,7 +1,0 @@
-chock.install.cmd -- Инсталлятор менеджера пакетов Chocolatey\nВ
-choc_pack.install.cmd -- Пакетный файл для инсталляции программ через менеджер пакетов Chocolatey\nВ
-duck-Install.msi -- Дистрибутив Duck - OpenSource CLI Client for WebDAV, FTP and Clouds\nDonationware\nВ
-INSTALL.MD -- Описание инсталляции стайлера "Exponenta" с помощью скомпилированных версий.\nВ
-install_distrib.bat -- Пакетный файл для загрузки и установки стайлера. Требует указания параметров командной строки.\nВ
-Install_MainExponenta.bat -- Командный файл установки пакета Elevation (инсталлятор, с внедрением кода для преобразорвания в EXE формат\nВ
-load_distrib.bat -- Пакетный файл для загрузки и установки стайлера. Требует указания параметров командной строки.\nВ
